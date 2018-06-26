@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  siret: 1
+  corporate_name: MyString
+  juridic_status: MyString
+  relance_mail: 1
+
+two:
+  siret: 1
+  corporate_name: MyString
+  juridic_status: MyString
+  relance_mail: 1

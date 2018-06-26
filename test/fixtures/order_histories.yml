@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-06-26 23:37:27
+  unique_id: MyString
+  client_company_name: MyString
+  buyer_name: MyString
+  label: MyString
+  purchase_family_1: MyString
+  purchase_family_2: MyString
+  amount: 9.99
+  type_contract_string: MyString
+  supplier: one
+
+two:
+  date: 2018-06-26 23:37:27
+  unique_id: MyString
+  client_company_name: MyString
+  buyer_name: MyString
+  label: MyString
+  purchase_family_1: MyString
+  purchase_family_2: MyString
+  amount: 9.99
+  type_contract_string: MyString
+  supplier: two
